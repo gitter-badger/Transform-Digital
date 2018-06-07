@@ -1,5 +1,6 @@
 __________________
 ## Transform-Digital
+[![Build Status](https://travis-ci.org/github/opensource.guide.svg?branch=master)](https://travis-ci.org/github/opensource.guide)
 ***
 ### Transform Digital  bot device created for aims to integrate the system fully to other systems, both systems in the internal 
 ### environment, as well as on systems external on third parties or else. 
