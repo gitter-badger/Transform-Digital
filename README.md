@@ -2,7 +2,7 @@ __________________
 ## Transform-Digital
 [![Build Status](https://travis-ci.org/github/opensource.guide.svg?branch=master)](https://travis-ci.org/github/opensource.guide) [![Join the chat at https://gitter.im/Transform-Digital/Lobby](https://badges.gitter.im/Transform-Digital/Lobby.svg)](https://gitter.im/Transform-Digital/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ***
-### Transform Digital  bot device created for aims to integrate the system fully to other systems, both systems in the internal 
+### Transform Digital  bot device created for aims to integrate the system fully to other systems, both systems in the internal
 ### environment, as well as on systems external on third parties or else. 
 ---
 
