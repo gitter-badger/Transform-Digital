@@ -13,3 +13,5 @@ Visited this link :
 ### -. [Our Startup](https://angel.co/indonesia-transform-education)
 ### -. [Our Plant](https://www.f6s.com/mayakarya)
 ### -. [Our info](https://www.crunchbase.com/organization/the-amh-news-syndicate)
+### -. [Public  Privacy] (https://transdigiware.github.io/PURI/)
+###  -. [Tentang Kepatuhan ] (https://transdigiware.github.io/GDPR)
