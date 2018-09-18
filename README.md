@@ -15,3 +15,4 @@ Visited this link :
 ### -. [Our info](https://www.crunchbase.com/organization/the-amh-news-syndicate)
 ### -. [Public  Privacy] (https://transdigiware.github.io/PURI/)
 ###  -. [Tentang Kepatuhan ] (https://transdigiware.github.io/GDPR)
+[![Build Status](https://travis-ci.org/transdigiware/Transform-Digital.svg?branch=master)](https://travis-ci.org/transdigiware/Transform-Digital)
