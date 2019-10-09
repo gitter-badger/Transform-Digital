@@ -1,7 +1,8 @@
 __________________
 ## Transform-Digital
-([![Build Status](https://travis-ci.org/transdigiware/Transform-Digital.svg?branch=master)](https://travis-ci.org/transdigiware/Transform-Digital)) [![Join the chat at https://gitter.im/Transform-Digital/Lobby](https://badges.gitter.im/Transform-Digital/Lobby.svg)](https://gitter.im/Transform-Digital/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/transdigiware/Transform-Digital.svg?branch=master)](https://travis-ci.org/transdigiware/Transform-Digital)
+
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3251/badge)](https://bestpractices.coreinfrastructure.org/projects/3251)
+
 ***
 ### Transform Digital  bot device created for aims to integrate the system fully to other systems, both systems in the internal
 ### environment, as well as on systems external on third parties or else. 
