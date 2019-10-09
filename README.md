@@ -2,12 +2,9 @@ __________________
 ## Transform-Digital
 ### At present we have raised funding for the continuity of our project so that we can continue to progress and develop in the future
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3251/badge)](https://bestpractices.coreinfrastructure.org/projects/3251)
-
 ***
-### Transform Digital  bot device created for aims to integrate the system fully to other systems, both systems in the internal
-### environment, as well as on systems external on third parties or else. 
+### Transform Digital  bot device created for aims to integrate the system fully to other systems, both systems in the interna environment, as well as on systems external on third parties or else. 
 ---
-
 ## Who We are !
 Visited this link : 
 ### -. [Our Project](https://transfromdigital.github.io/about/) 
