@@ -1,6 +1,6 @@
 __________________
 ## Transform-Digital
-### At present we have prepared funding for the continuity of our project so that we can continue to progress and develop in the future
+### At present we have raised funding for the continuity of our project so that we can continue to progress and develop in the future
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3251/badge)](https://bestpractices.coreinfrastructure.org/projects/3251)
 
 ***
