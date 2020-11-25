@@ -7,8 +7,8 @@ __________________
 ---
 ## Who We are !
 Visited this link : 
-### -. [Our Project](https://transfromdigital.github.io/about/) 
-### -. [Our Product](https://takasimura.mybigcommerce.com/)
+### -. [Our Project](https://github.com/transdigiware/Transform-Digital)
+### -. [Our Product](https://github.com/transdigiware/mayakarya)
 ### -. [Our Startup](https://angel.co/indonesia-transform-education)
 ### -. [Our Plant](https://www.f6s.com/mayakarya)
 ### -. [Our info](https://www.crunchbase.com/organization/the-amh-news-syndicate)
