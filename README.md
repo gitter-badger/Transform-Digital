@@ -14,11 +14,12 @@ To realize and improve the existing planning, maya karya now decided to raise fu
 ---
 ## Who We are !
 Visited this link : 
-### -. [Our Project](https://github.com/transdigiware/Transform-Digital)
-### -. [Our Product](https://github.com/transdigiware/mayakarya)
-### -. [Our Startup](https://angel.co/indonesia-transform-education)
-### -. [Our Plant](https://www.f6s.com/mayakarya)
-### -. [Our info](https://www.crunchbase.com/organization/the-amh-news-syndicate)
-### -. [Public  Privacy](https://transdigiware.github.io/PURI/)
-### -. [Tentang Kepatuhan](https://transdigiware.github.io/GDPR)
+- [Our Project](https://github.com/transdigiware/Transform-Digital)
+- [Our Product](https://github.com/transdigiware/mayakarya)
+- [Our Startup](https://angel.co/indonesia-transform-education)
+- [Our Plant](https://www.f6s.com/mayakarya) - [Our info](https://www.crunchbase.com/organization/the-amh-news-syndicate)
+- [Public  Privacy](https://transdigiware.github.io/PURI/)
+- [Tentang Kepatuhan](https://transdigiware.github.io/GDPR)
+
+
 
