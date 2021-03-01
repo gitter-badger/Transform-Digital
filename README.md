@@ -6,10 +6,10 @@ Maya karya is a start-up that works closely and works online to become The Compa
 
 # NetPotFarm.Tech
 
-Adalah bisnis kecil dengan usaha menanam pada lahan atau Ladang bercocok tanam yang sempit seperti di perkotaan di mana tidak ada lagi lahan hijau yang mampu mewmbuat asri lingkungan sekitar.
-[NetPotFarm.Tech]9https://netpotfarm.business.site/0 adalah domain cloud yang akan dibeli secara bertahap dari hasil berladang dan melakukan pembibitan ikan hias air tawar dalam mengikuti di namika bisnis dimana pada masa pandemi Covid-19 merebak maka Farm kami menjadi andalan untuk tetap dapat berusaha mempertahankan tehnologi cloud yang tetap harus di bayar oleh cord bisnis kamoi di awan.
-Sejak awal Janmuari Farm Kami Aktif untuk berjualan produk benih dan bibit melalui media lokal dan media social.
-Sekarang NetPotFarm.Tech telah diberikan aturan main oleh Pemerintah Indonesia sebagai Usaha Kecil Menengah (UMKM) yang nantinya lewat Departemen Koperasi Republik Indonesia bantuan perinjinan atau Legalitas akan diberikan, saat ini sedang berproses. Pemerintah Indonesia memberikan bantuan untuk para pengusaha lokal yang bergerak dalam bisnis micro karena terimbas adanya pandemi dari Covid-19
+Is a small business with an effort to plant on land or small cultivated fields in urban areas where there is nothing like green land that can create a beautiful surrounding environment.
+[NetPotFarm.Tech](https://netpotfarm.business.site/) is a cloud domain that will be purchased in stages from the results of farming and breeding of freshwater ornamental fish in following the business dynamics where during the Covid-19 pandemic, our Farm is a mainstay to keep trying to maintain cloud technology, which is still required by Cord kamoi business in the clouds.
+Since the beginning of Janmuari Farm, We have been active in selling seeds and seed products through local media and social media.
+Now NetPotFarm.Tech has been given the rules of the game by the Government of Indonesia as Small and Medium Enterprises (MSMEs), which later through the Ministry of Cooperatives of the Republic of Indonesia, licensing or legality assistance will be given, currently in process. The Indonesian government provides assistance to local entrepreneurs engaged in micro businesses because of the impact of the pandemic from Covid-19
 
 ## Transform-Digital
 
