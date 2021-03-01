@@ -1,8 +1,15 @@
-# MAYA KARYA 
+# MAYAKARYA 
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3251/badge)](https://bestpractices.coreinfrastructure.org/projects/3251)
 
 Maya karya is a start-up that works closely and works online to become The Company of future, including being a real and legalized business locally and globally and Maya Karya in the future will continue to plan and supervise in creating large projects in Indonesia to meet the needs of data centers and other supporting facilities.
+
+# NetPotFarm.Tech
+
+Adalah bisnis kecil dengan usaha menanam pada lahan atau Ladang bercocok tanam yang sempit seperti di perkotaan di mana tidak ada lagi lahan hijau yang mampu mewmbuat asri lingkungan sekitar.
+[NetPotFarm.Tech]9https://netpotfarm.business.site/0 adalah domain cloud yang akan dibeli secara bertahap dari hasil berladang dan melakukan pembibitan ikan hias air tawar dalam mengikuti di namika bisnis dimana pada masa pandemi Covid-19 merebak maka Farm kami menjadi andalan untuk tetap dapat berusaha mempertahankan tehnologi cloud yang tetap harus di bayar oleh cord bisnis kamoi di awan.
+Sejak awal Janmuari Farm Kami Aktif untuk berjualan produk benih dan bibit melalui media lokal dan media social.
+Sekarang NetPotFarm.Tech telah diberikan aturan main oleh Pemerintah Indonesia sebagai Usaha Kecil Menengah (UMKM) yang nantinya lewat Departemen Koperasi Republik Indonesia bantuan perinjinan atau Legalitas akan diberikan, saat ini sedang berproses. Pemerintah Indonesia memberikan bantuan untuk para pengusaha lokal yang bergerak dalam bisnis micro karena terimbas adanya pandemi dari Covid-19
 
 ## Transform-Digital
 
