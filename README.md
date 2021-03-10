@@ -16,10 +16,10 @@ Now NetPotFarm.Tech has been given the rules of the game by the Government of In
 Maya karya is currently conducting services in its interest to adopt digital technology so as to transform services or businesses, through replacing non-digital or manual processes with digital processes or replacing old digital technologies with newer digital technologies.
 To realize and improve the existing planning, maya karya now decided to raise funds so that the continuity of the project can continue to be an opportunity to be more advanced and more able to develop wisely for the future
 
-***
-```shell 
+```shell
 The Transform Digital bot device created by Maya works to integrate the system fully into other systems, both in the internal environment (Hard Drive), as well as on external systems (Cloud) on third parties or on other services.
 ---
+
 ## Who We are !
 Visited this link : 
 - [Our Project](https://github.com/transdigiware/Transform-Digital)
